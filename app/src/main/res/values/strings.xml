@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Passport</string>
+    <string name="tug_ilgan_sana_date_birthday">tug_ilgan_sana_date_birthday</string>
+    <string name="o_zbekiston_respublikasi">O\'zbekiston Respublikasi</string>
+    <string name="shaxs_guvohnomasi">Shaxs Guvohnomasi</string>
+    <string name="familiya_surname">Familiya Surname</string>
+    <string name="ism_name">Ism Name</string>
+    <string name="todo">TODO</string>
+    <string name="tug_ilgan_sana_date_of_birthday">Tug\'ilgan sana Date of birthday</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="passport_berish_bo_limi">Passport Berish Bo\'limi</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+    <string name="date_of_birthday">Date of birthday</string>
+    <string name="add_user">Add User</string>
+    <string name="uzbekiston_respublikasi" />
+</resources>

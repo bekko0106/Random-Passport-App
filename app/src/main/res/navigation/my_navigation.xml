@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_navigation"
+    app:startDestination="@id/addUserFragment">
+
+    <fragment
+        android:id="@+id/addUserFragment"
+        android:name="developer.behzod.passport.Fragment.AddUserFragment"
+        android:label="fragment_add_user"
+        tools:layout="@layout/fragment_add_user" />
+    <fragment
+        android:id="@+id/pasportBerishFragment"
+        android:name="developer.behzod.passport.Fragment.PasportBerishFragment"
+        android:label="fragment_pasport_berish"
+        tools:layout="@layout/fragment_pasport_berish" />
+</navigation>
